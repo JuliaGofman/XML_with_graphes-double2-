@@ -1,6 +1,6 @@
 from xml.etree import ElementTree
 
-# with open('example.xml', 'w') as f:
+# with open('cubes.xml', 'w') as f:
 #     f.write(input())
 def recurcionForCubes(el, root, value):
     value += 1
