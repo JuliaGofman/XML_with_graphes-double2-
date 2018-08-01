@@ -1,0 +1,15 @@
+<cube color="blue">
+    <cube color="red">
+        <cube color="red"/>
+        <cube color="green"/>
+    </cube>
+    <cube color="blue">
+        <cube color="green">
+            <cube color="blue">
+                <cube color="blue">
+                    <cube color="red"/>
+                </cube>
+            </cube>
+        </cube>
+    </cube>
+</cube>
